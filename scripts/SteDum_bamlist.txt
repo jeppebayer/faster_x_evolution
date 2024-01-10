@@ -1,0 +1,10 @@
+/faststorage/project/EcoGenetics/people/Jeppe_Bayer/X_evolution/data/individual_data/Stegodyphus_dumicola/SteDum_f1_41_F/SteDum_f1_41_F_filtered.bam
+/faststorage/project/EcoGenetics/people/Jeppe_Bayer/X_evolution/data/individual_data/Stegodyphus_dumicola/SteDum_f1_46_M/SteDum_f1_46_M_filtered.bam
+/faststorage/project/EcoGenetics/people/Jeppe_Bayer/X_evolution/data/individual_data/Stegodyphus_dumicola/SteDum_f2_42_F/SteDum_f2_42_F_filtered.bam
+/faststorage/project/EcoGenetics/people/Jeppe_Bayer/X_evolution/data/individual_data/Stegodyphus_dumicola/SteDum_f2_47_M/SteDum_f2_47_M_filtered.bam
+/faststorage/project/EcoGenetics/people/Jeppe_Bayer/X_evolution/data/individual_data/Stegodyphus_dumicola/SteDum_f3_43_F/SteDum_f3_43_F_filtered.bam
+/faststorage/project/EcoGenetics/people/Jeppe_Bayer/X_evolution/data/individual_data/Stegodyphus_dumicola/SteDum_f3_48_M/SteDum_f3_48_M_filtered.bam
+/faststorage/project/EcoGenetics/people/Jeppe_Bayer/X_evolution/data/individual_data/Stegodyphus_dumicola/SteDum_f4_44_F/SteDum_f4_44_F_filtered.bam
+/faststorage/project/EcoGenetics/people/Jeppe_Bayer/X_evolution/data/individual_data/Stegodyphus_dumicola/SteDum_f4_49_M/SteDum_f4_49_M_filtered.bam
+/faststorage/project/EcoGenetics/people/Jeppe_Bayer/X_evolution/data/individual_data/Stegodyphus_dumicola/SteDum_f5_45_F/SteDum_f5_45_F_filtered.bam
+/faststorage/project/EcoGenetics/people/Jeppe_Bayer/X_evolution/data/individual_data/Stegodyphus_dumicola/SteDum_f5_50_M/SteDum_f5_50_M_filtered.bam

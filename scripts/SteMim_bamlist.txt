@@ -1,0 +1,9 @@
+/faststorage/project/EcoGenetics/people/Jeppe_Bayer/X_evolution/data/individual_data/Stegodyphus_mimosarum/SteMim_f1_1_F/SteMim_f1_1_F_filtered.bam
+/faststorage/project/EcoGenetics/people/Jeppe_Bayer/X_evolution/data/individual_data/Stegodyphus_mimosarum/SteMim_f1_6_M/SteMim_f1_6_M_filtered.bam
+/faststorage/project/EcoGenetics/people/Jeppe_Bayer/X_evolution/data/individual_data/Stegodyphus_mimosarum/SteMim_f2_2_F/SteMim_f2_2_F_filtered.bam
+/faststorage/project/EcoGenetics/people/Jeppe_Bayer/X_evolution/data/individual_data/Stegodyphus_mimosarum/SteMim_f2_7_M/SteMim_f2_7_M_filtered.bam
+/faststorage/project/EcoGenetics/people/Jeppe_Bayer/X_evolution/data/individual_data/Stegodyphus_mimosarum/SteMim_f3_3_F/SteMim_f3_3_F_filtered.bam
+/faststorage/project/EcoGenetics/people/Jeppe_Bayer/X_evolution/data/individual_data/Stegodyphus_mimosarum/SteMim_f3_8_M/SteMim_f3_8_M_filtered.bam
+/faststorage/project/EcoGenetics/people/Jeppe_Bayer/X_evolution/data/individual_data/Stegodyphus_mimosarum/SteMim_f4_4_F/SteMim_f4_4_F_filtered.bam
+/faststorage/project/EcoGenetics/people/Jeppe_Bayer/X_evolution/data/individual_data/Stegodyphus_mimosarum/SteMim_f4_8_M/SteMim_f4_8_M_filtered.bam
+/faststorage/project/EcoGenetics/people/Jeppe_Bayer/X_evolution/data/individual_data/Stegodyphus_mimosarum/SteMim_f5_7_M/SteMim_f5_7_M_filtered.bam
