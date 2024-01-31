@@ -3,3 +3,4 @@ logs/
 test_data/
 data/
 __pycache__/
+.gwf/
